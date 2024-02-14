@@ -7,7 +7,7 @@
 .header-text.span{
     width: 200px;
     margin-top: -60px;
-   
+    
 }
 html{
     scroll-behavior: smooth;
@@ -38,7 +38,7 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
     margin-top: 50px;
-    position: sticky;
+    
     top: 0;
     left: 0;
 }
